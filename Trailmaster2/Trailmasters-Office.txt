@@ -1,0 +1,23 @@
+// Howdy :))
+// I'm moving in 9-24-2019 , A new beginning and Continuation of an Existing Journey
+// Lets do this :))
+// test
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+	<center>
+	Angel Cakes - Cakes, Flowers, Candles, Special orders Available
+	<div style="text-align:center"><iframe src="https://freebyrdsadvertising.net/freebyrds_home/advertising-for-rlc/angel-cakes/" style="height:2000px; width:697px; border:none;"></iframe></div>
+	<center>
+	<textarea rows="10" cols="40"style="background-color: black;color:#fff;">
+	Angel Cakes - Cakes, Flowers, Candles, Special orders Available
+	<div style="text-align:center"><iframe src="https://freebyrdsadvertising.net/freebyrds_home/advertising-for-rlc/angel-cakes/" style="height:2000px; width:697px; border:none;"></iframe></div>
+	</textarea>
+	
+</body>
+</html>
+
+	
